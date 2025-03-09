@@ -1,0 +1,14 @@
+{
+  "name": "mcp-hello-world",
+  "version": "1.0.0",
+  "author": "shooooori0128",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "npx @modelcontextprotocol/inspector node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "fastmcp": "^1.20.2"
+  }
+}
